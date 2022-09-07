@@ -1,0 +1,26 @@
+
+
+<resources>
+    <string name="app_name">Java Trivia</string>
+    <string name="game_over">Game Over</string>
+    <string name="try_again">Try Again?</string>
+    <string name="position">Position</string>
+    <string name="select_an_avatar">Select an Avatar</string>
+    <string name="java_trivia">Java Trivia</string>
+    <string name="about_text">Java Trivia Application will help remind you of important concepts you have learned and will learn in java programming.\n\nConsider modifying the questions and graphics to make this game your own! \n \n This app is created using kotlin in android studio.</string>
+    <string name="rules_text">Select the answer from the options given. Each time you get an answer correct, you advance to the next question.\n\nIf you get the answer wrong, your game ends! You can return to the title screen using up or back from within the game screen, and this will also end your game.</string>
+    <string name="rules">Rules</string>
+    <string name="about">About</string>
+    <string name="trivia_hint">Trivia Hint</string>
+
+    <string name="title_java_trivia_question">Java Trivia (%1$d/%2$d)</string>
+    <string name="title_about_trivia">About </string>
+    <string name="title_trivia_rules">Trivia Rules</string>
+    <string name="share_success_text">I mastered #JAVATRIVIA with %1$d/%2$d correct questions! created By Gaurav Singh Bora</string>
+    <string name="submit_button">Submit</string>
+    <string name="congratulations">Congratulations!</string>
+    <string name="share">Share</string>
+    <string name="sharing_not_available">Sharing Not Available</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
+
