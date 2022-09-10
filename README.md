@@ -1,6 +1,3 @@
-# Java-Trivia-Application
-this is a simple java quiz application created using kotlin 
-
 ![Screenshot_2022-09-10-11-39-50-11_d1fc209ea91ec98b0b48443a89a24f3a](https://user-images.githubusercontent.com/91014874/189471890-b18f118f-53dd-4fae-955d-e48dc00644f8.jpg)
 ![Screenshot_2022-09-10-11-39-52-28_d1fc209ea91ec98b0b48443a89a24f3a](https://user-images.githubusercontent.com/91014874/189471895-147b3e34-eb10-4186-b354-9919e59e4f28.jpg)
 ![Screenshot_2022-09-10-11-40-09-15_d1fc209ea91ec98b0b48443a89a24f3a](https://user-images.githubusercontent.com/91014874/189471899-4bc96c91-fbd0-4edc-86f4-b36c92a86f55.jpg)
@@ -10,7 +7,11 @@ this is a simple java quiz application created using kotlin
 ![Screenshot_2022-09-10-11-39-59-69_d1fc209ea91ec98b0b48443a89a24f3a](https://u
 ![Screenshot_2022-09-10-11-39-55-56_d1fc209ea91ec98b0b48443a89a24f3a](https://user-images.githubusercontent.com/91014874/189471920-ace3e3c9-0277-460b-9dc8-f35b7c99b141.jpg)
 ser-images.githubusercontent.com/91014874/189471916-89d88b5f-1d13-406d-a3d8-4cfa0ee25aa5.jpg)
-
-
 ![Screenshot_2022-09-10-11-40-18-30_d1fc209ea91ec98b0b48443a89a24f3a](https://user-images.githubusercontent.com/91014874/189471903-adf76780-8bbf-4ff8-9fbe-caf1983ef0cf.jpg)
+![Screenshot_2022-09-10-11-39-59-69_d1fc209ea91ec98b0b48443a89a24f3a](https://user-images.githubusercontent.com/91014874/189471969-2df757e2-7c72-4bc2-9a51-2efa32e90841.jpg)
+
+
+
+
+
 
