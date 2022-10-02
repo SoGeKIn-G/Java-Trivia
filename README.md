@@ -1,3 +1,9 @@
+# Java Trivia Application
+# kotlin
+# Android
+# Fragments Navigation ++
+
+
 ![Screenshot_2022-09-10-11-41-28-91](https://user-images.githubusercontent.com/91014874/189472556-f41bd8e7-bb0d-4c91-8ce2-58c5f8f24187.jpg)
 ![Screenshot_2022-09-10-12-10-11-16_d1fc209ea91ec98b0b48443a89a24f3a](https://user-images.githubusercontent.com/91014874/189472561-a1c4f19f-c3dd-4dd3-9e2b-c75b74bcf997.jpg)
 ![Screenshot_2022-09-10-12-10-18-79_d1fc209ea91ec98b0b48443a89a24f3a](https://user-images.githubusercontent.com/91014874/189472563-84e43b14-090b-4c8f-aaf9-b2a250aa4400.jpg)
